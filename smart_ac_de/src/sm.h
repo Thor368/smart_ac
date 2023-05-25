@@ -1,0 +1,1 @@
+void sm_update(void);
